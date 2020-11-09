@@ -16,7 +16,7 @@ Lectures will be added to GitHub Friday of the proceeding week.
 | 03 | Data Wrangling   | [03_wrangling](https://github.com/COGS108/Lectures-Fa20/tree/master/03_wrangling) |
 | 04 | Data Visualization | [04_viz](https://github.com/COGS108/Lectures-Fa20/tree/master/04_viz)   | 
 | 05 | Data Analysis | [05_analysis](https://github.com/COGS108/Lectures-Fa20/tree/master/05_analysis)   |
-| 06 | Inference  | [06_inference](https://github.com/COGS108/Lectures-Fa20/tree/master/06_inference)   | 
+| 06 | Inference  | [06_inference](https://github.com/COGS108/Lectures-Fa20/tree/master/06_text)   | 
 | 07 | Machine Learning  |  [07_machine_learning](https://github.com/COGS108/Lectures-Fa20/tree/master/07_machine_learning)  | 
 | 08 | Geospatial Analysis | [08_geospatial](https://github.com/COGS108/Lectures-Fa20/tree/master/08_geospatial) | 
 | 09 | Dimensionality Reduction & Data Science Jobs  | [09_jobs](https://github.com/COGS108/Lectures-Fa20/tree/master/09_jobs)  |
