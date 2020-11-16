@@ -32,10 +32,10 @@
 ## Friday: Text + ML
 
 **07_07_ml_sklearn**
-- [Video](Coming Soon)
-- [Notebook](Coming Soon)
+- [Video](https://youtu.be/L6UTl6wU6xM)
+- [Notebook](https://github.com/COGS108/Lectures-Fa20/blob/master/07_machine_learning/07_07_ml_sklearn.ipynb)
 
 **07_08_text_ml**
-- [Video](Coming Soon)
-- [Notebook](Coming Soon)
+- [Video](https://youtu.be/NRHXqALsIBc)
+- [Notebook](https://github.com/COGS108/Lectures-Fa20/blob/master/07_machine_learning/07_08_text_ml.ipynb)
 
