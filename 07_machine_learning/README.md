@@ -18,15 +18,15 @@
 
 **07_04_ml_example**
 - [Video](https://youtu.be/qS-bIZtG_sU)
-- [Slides](https://github.com/COGS108/Lectures-Fa20/blob/master/07_machine_learning/07_03_ml_nn.pdf)
+- [Slides](https://github.com/COGS108/Lectures-Fa20/blob/master/07_machine_learning/07_04_ml_example.pdf)
 
 **07_05_ml_cv**
 - [Video](https://youtu.be/Nldt1Hff_hI)
-- [Slides](https://github.com/COGS108/Lectures-Fa20/blob/master/07_machine_learning/07_03_ml_nn.pdf)
+- [Slides](https://github.com/COGS108/Lectures-Fa20/blob/master/07_machine_learning/07_05_ml_cv.pdf)
 
 **07_06_ml_ethics**
 - [Video](https://youtu.be/WQOri8A88UM)
-- [Slides](https://github.com/COGS108/Lectures-Fa20/blob/master/07_machine_learning/07_03_ml_nn.pdf)
+- [Slides](https://github.com/COGS108/Lectures-Fa20/blob/master/07_machine_learning/07_06_ml_ethics.pdf)
 
 
 ## Friday: Text + ML
