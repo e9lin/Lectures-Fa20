@@ -19,5 +19,5 @@ Lectures will be added to GitHub Friday of the proceeding week.
 | 06 | Inference  | [06_inference](https://github.com/COGS108/Lectures-Fa20/tree/master/06_text)   | 
 | 07 | Machine Learning  |  [07_machine_learning](https://github.com/COGS108/Lectures-Fa20/tree/master/07_machine_learning)  | 
 | 08 | Geospatial Analysis | [08_geospatial](https://github.com/COGS108/Lectures-Fa20/tree/master/08_geospatial) | 
-| 09 | Dimensionality Reduction & Data Science Jobs  | [09_jobs](https://github.com/COGS108/Lectures-Fa20/tree/master/09_jobs)  |
+| 09 | Dimensionality Reduction & Data Science Jobs  | [09_pca](https://github.com/COGS108/Lectures-Fa20/tree/master/09_pca)  |
 | 10 | Data Science Communication & The Future  | [10_communication](https://github.com/COGS108/Lectures-Fa20/tree/master/10_communication)   | 

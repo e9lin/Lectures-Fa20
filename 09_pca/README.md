@@ -4,11 +4,11 @@
 
 **09_01_analysis**
 - [Video](https://youtu.be/6GZEhDSu2UA)
-- [Notebook](https://github.com/COGS108/Lectures-Fa20/blob/master/08_geosptaial/09_01_analysis.ipynb)
+- [Notebook](https://github.com/COGS108/Lectures-Fa20/blob/master/09_pca/09_01_analysis.ipynb)
 
 **09_02_final_project**
 - [Video](https://youtu.be/3wPovu_89Oo)
-- [Slides](https://github.com/COGS108/Lectures-Fa20/blob/master/08_geospatial/09_02_final_project.pdf)
+- [Slides](https://github.com/COGS108/Lectures-Fa20/blob/master/09_pca/09_02_final_project.pdf)
 
 ## Wednesday: Dimensionality Reduction
 
